@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.52f8f21c.js",
+    "main.js": "/static/js/main.b3b1363e.js",
     "static/media/HeaderHero.png": "/static/media/HeaderHero.452279f5ea501e57d99e.png",
     "static/media/header-image.png": "/static/media/header-image.e8035223909da2151e87.png",
     "static/media/MaticGoldLogo.svg": "/static/media/MaticGoldLogo.0050c7772582c873f2212730ccfbd02b.svg",
@@ -19,9 +19,9 @@
     "static/media/wave-background-1.svg": "/static/media/wave-background-1.5531e53fc888e1e35e06d4dd4797bcf3.svg",
     "static/media/headerBG.svg": "/static/media/headerBG.98e7351a66d0f53a9f5fc967b4422d9c.svg",
     "static/media/dividerCurved.svg": "/static/media/dividerCurved.cced60f11ef56b97a2c8f643637122aa.svg",
-    "main.52f8f21c.js.map": "/static/js/main.52f8f21c.js.map"
+    "main.b3b1363e.js.map": "/static/js/main.b3b1363e.js.map"
   },
   "entrypoints": [
-    "static/js/main.52f8f21c.js"
+    "static/js/main.b3b1363e.js"
   ]
 }
